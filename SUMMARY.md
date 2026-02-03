@@ -14,6 +14,7 @@
 * [07 - Modeles cooperatifs et gouvernance partagee](docs/agent-1-tierslieux/07-modeles-cooperatifs-et-gouvernance-partagee.md)
 * [08 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/08-numerique-et-inclusion-dans-les-tiers-lieux.md)
 * [09 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/09-numerique-et-inclusion-dans-les-tiers-lieux.md)
+* [10 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/10-numerique-et-inclusion-dans-les-tiers-lieux.md)
 
 ## Agent Durabilite: Durabilite
 
@@ -26,3 +27,9 @@
 * [06 - Communs et gouvernance des ressources partagees](docs/agent-2-durabilite/06-communs-et-gouvernance-des-ressources-partage.md)
 * [07 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/07-sobriete-choisie-et-transformation-des-modes.md)
 * [08 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/08-sobriete-choisie-et-transformation-des-modes.md)
+* [09 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/09-sobriete-choisie-et-transformation-des-modes.md)
+
+## Amelia: Innovation sociale
+
+* [Introduction](docs/agent-3-innovation-sociale/index.md)
+* [01 - Innovation sociale](docs/agent-3-innovation-sociale/01-innovation-sociale.md)
