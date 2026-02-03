@@ -43,8 +43,10 @@ const initializeCounts = (agents) => {
   const themeIdx = {};
 
   agents.forEach(agent => {
-    counts[agent.id] = countExistingFiles(agent.folder);
-    themeIdx[agent.id] = 0;
+    const existingCount = countExistingFiles(agent.folder);
+    counts[agent.id] = existingCount;
+    // L'index du theme suit le nombre de reflexions deja produites
+    themeIdx[agent.id] = existingCount;
   });
 
   return { counts, themeIdx };
