@@ -2,7 +2,7 @@
 
 * [Accueil](README.md)
 
-## Agent 1: Tiers-Lieux
+## Agent Tiers-Lieux: Tiers-Lieux
 
 * [Introduction](docs/agent-1-tierslieux/index.md)
 * [01 - Modeles economiques durables des tiers-lieux](docs/agent-1-tierslieux/01-modeles-economiques.md)
@@ -12,8 +12,9 @@
 * [05 - Tiers-lieux et revitalisation des territoires ruraux](docs/agent-1-tierslieux/05-tiers-lieux-et-revitalisation-des-territ.md)
 * [06 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/06-numerique-et-inclusion-dans-les-tiers-lieux.md)
 * [07 - Modeles cooperatifs et gouvernance partagee](docs/agent-1-tierslieux/07-modeles-cooperatifs-et-gouvernance-partagee.md)
+* [08 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/08-numerique-et-inclusion-dans-les-tiers-lieux.md)
 
-## Agent 2: Durabilite
+## Agent Durabilite: Durabilite
 
 * [Introduction](docs/agent-2-durabilite/index.md)
 * [01 - Economie circulaire et territoires : repenser les flux pour un developpement durable](docs/agent-2-durabilite/01-economie-circulaire.md)
@@ -22,3 +23,4 @@
 * [04 - Justice climatique et equite territoriale](docs/agent-2-durabilite/04-justice-climatique-et-equite-territorial.md)
 * [05 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/05-sobriete-choisie-et-transformation-des-modes.md)
 * [06 - Communs et gouvernance des ressources partagees](docs/agent-2-durabilite/06-communs-et-gouvernance-des-ressources-partage.md)
+* [07 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/07-sobriete-choisie-et-transformation-des-modes.md)
