@@ -1,0 +1,27 @@
+{
+  "name": "think-tank-orchestra",
+  "version": "6.0.0",
+  "description": "Systeme d'orchestration d'agents IA pour generer des reflexions structurees",
+  "main": "scripts/orchestrator-ai.js",
+  "scripts": {
+    "start": "node scripts/orchestrator-ai.js",
+    "once": "node scripts/orchestrator-ai.js --once",
+    "legacy": "node scripts/orchestrator.js",
+    "test": "node scripts/orchestrator-ai.js --once"
+  },
+  "keywords": [
+    "think-tank",
+    "ai",
+    "claude",
+    "gitbook",
+    "agents"
+  ],
+  "author": "Orgxsm",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "settings": {
+    "intervalMinutes": 30,
+    "model": "claude-sonnet-4-20250514",
+    "maxTokens": 4000,
+    "language": "fr"
+  },
+  "agents": [
+    {
+      "id": "agent-1",
+      "name": "Agent Tiers-Lieux",
+      "icon": "🏠",
+      "section": "Tiers-Lieux",
+      "folder": "agent-1-tierslieux",
+      "active": true,
+      "description": "Expert en tiers-lieux, espaces collaboratifs, coworking et lieux hybrides. Analyse la viabilite economique, la gouvernance participative et l'impact social de ces espaces.",
+      "systemPrompt": "Tu es un expert reconnu des tiers-lieux en France et en Europe. Tu produis des reflexions approfondies, rigoureuses et documentees sur les enjeux des espaces collaboratifs. Ton style est academique mais accessible, avec des exemples concrets et des recommandations pratiques.",
+      "themes": [
+        {
+          "title": "Modeles economiques durables des tiers-lieux",
+          "keywords": ["viabilite", "hybridation", "revenus", "subventions", "autofinancement"]
+        },
+        {
+          "title": "Gouvernance participative dans les tiers-lieux",
+          "keywords": ["democratie", "sociocratie", "decisions collectives", "inclusion"]
+        },
+        {
+          "title": "Financement hybride et perennite",
+          "keywords": ["fonds publics", "mecenat", "crowdfunding", "modele mixte"]
+        },
+        {
+          "title": "Impact social et mesure de la valeur creee",
+          "keywords": ["indicateurs", "evaluation", "utilite sociale", "externalites positives"]
+        },
+        {
+          "title": "Tiers-lieux et revitalisation des territoires ruraux",
+          "keywords": ["ruralite", "attractivite", "services", "lien social"]
+        },
+        {
+          "title": "Numerique et inclusion dans les tiers-lieux",
+          "keywords": ["fracture numerique", "mediation", "accessibilite", "formation"]
+        },
+        {
+          "title": "Modeles cooperatifs et gouvernance partagee",
+          "keywords": ["SCIC", "SCOP", "ESS", "cooperation"]
+        },
+        {
+          "title": "Culture et creation dans les tiers-lieux",
+          "keywords": ["artistes", "residences", "fab lab", "makers"]
+        },
+        {
+          "title": "Tiers-lieux nourriciers et agriculture urbaine",
+          "keywords": ["alimentation", "circuits courts", "jardins partages", "permaculture"]
+        },
+        {
+          "title": "Accessibilite et design inclusif",
+          "keywords": ["handicap", "universel", "ergonomie", "diversite"]
+        }
+      ]
+    },
+    {
+      "id": "agent-2",
+      "name": "Agent Durabilite",
+      "icon": "🌱",
+      "section": "Durabilite",
+      "folder": "agent-2-durabilite",
+      "active": true,
+      "description": "Expert en developpement durable, economie circulaire, transition ecologique et solidarite intergenerationnelle.",
+      "systemPrompt": "Tu es un expert en developpement durable et transition ecologique. Tu produis des analyses approfondies sur les enjeux environnementaux, sociaux et economiques de la durabilite. Ton approche est systemique, basee sur des donnees scientifiques, avec des propositions concretes.",
+      "themes": [
+        {
+          "title": "Economie circulaire et territoires",
+          "keywords": ["flux matieres", "recyclage", "reparation", "reemploi", "local"]
+        },
+        {
+          "title": "Solidarite intergenerationnelle",
+          "keywords": ["jeunes", "seniors", "transmission", "equite", "patrimoine"]
+        },
+        {
+          "title": "Indicateurs de bien-etre et nouveaux recits du progres",
+          "keywords": ["PIB", "alternatives", "bonheur", "qualite de vie"]
+        },
+        {
+          "title": "Justice climatique et equite territoriale",
+          "keywords": ["vulnerabilites", "adaptation", "inegalites", "resilience"]
+        },
+        {
+          "title": "Sobriete choisie et transformation des modes de vie",
+          "keywords": ["consommation", "suffisance", "simplicite", "decroissance"]
+        },
+        {
+          "title": "Communs et gouvernance des ressources partagees",
+          "keywords": ["Ostrom", "biens communs", "gestion collective", "enclosures"]
+        },
+        {
+          "title": "Mobilites durables et amenagement du territoire",
+          "keywords": ["transports", "velo", "intermodalite", "proximite"]
+        },
+        {
+          "title": "Habitat ecologique et renovation energetique",
+          "keywords": ["passoire thermique", "isolation", "materiaux biosources", "autoconstruction"]
+        },
+        {
+          "title": "Economie de la fonctionnalite",
+          "keywords": ["usage vs propriete", "services", "location", "mutualisation"]
+        },
+        {
+          "title": "Education populaire et transition ecologique",
+          "keywords": ["sensibilisation", "formation", "citoyennete", "empowerment"]
+        }
+      ]
+    },
+    {
+      "id": "agent-3",
+      "name": "Amelia",
+      "icon": "💡",
+      "section": "Innovation sociale",
+      "folder": "agent-3-innovation-sociale",
+      "active": true,
+      "description": "Experte en innovation sociale, design thinking, laboratoires d'innovation publique et finance solidaire.",
+      "systemPrompt": "Tu es Amelia, une experte en innovation sociale et transformation des organisations. Tu analyses les nouvelles formes d'innovation au service de l'interet general. Ton style est dynamique, prospectif et ancre dans les pratiques emergentes.",
+      "themes": [
+        {
+          "title": "Design thinking et co-creation citoyenne",
+          "keywords": ["participation", "usagers", "prototypage", "iteration"]
+        },
+        {
+          "title": "Laboratoires d'innovation publique",
+          "keywords": ["administration", "experimentation", "agents publics", "transformation"]
+        },
+        {
+          "title": "Finance solidaire et investissement a impact",
+          "keywords": ["ESG", "ISR", "epargne citoyenne", "fonds solidaires"]
+        },
+        {
+          "title": "Tech for good et numerique responsable",
+          "keywords": ["ethique", "sobriete numerique", "accessibilite", "open source"]
+        },
+        {
+          "title": "Economie collaborative et plateformes cooperatives",
+          "keywords": ["pair-a-pair", "partage", "cooperativisme de plateforme", "communs numeriques"]
+        },
+        {
+          "title": "Innovation frugale et low-tech",
+          "keywords": ["simplicite", "accessibilite", "reparabilite", "appropriation"]
+        },
+        {
+          "title": "Mesure d'impact social et evaluation",
+          "keywords": ["SROI", "theorie du changement", "indicateurs", "reporting"]
+        },
+        {
+          "title": "Entrepreneuriat social et modeles hybrides",
+          "keywords": ["entreprise a mission", "B Corp", "ESS", "lucrativite limitee"]
+        }
+      ]
+    },
+    {
+      "id": "agent-4",
+      "name": "Agent Democratie",
+      "icon": "🗳️",
+      "section": "Democratie participative",
+      "folder": "agent-4-democratie",
+      "active": false,
+      "description": "Expert en democratie participative, civic tech, deliberation citoyenne et gouvernance ouverte.",
+      "systemPrompt": "Tu es un expert en democratie participative et innovation democratique. Tu analyses les nouvelles formes de participation citoyenne et de deliberation collective.",
+      "themes": [
+        {
+          "title": "Conventions citoyennes et mini-publics",
+          "keywords": ["tirage au sort", "deliberation", "representativite", "recommandations"]
+        },
+        {
+          "title": "Budgets participatifs",
+          "keywords": ["allocation", "vote", "projets citoyens", "transparence"]
+        },
+        {
+          "title": "Civic tech et outils numeriques de participation",
+          "keywords": ["plateformes", "consultation", "vote electronique", "open data"]
+        },
+        {
+          "title": "Gouvernance ouverte et transparence",
+          "keywords": ["open government", "redevabilite", "donnees ouvertes", "lobbying"]
+        }
+      ]
+    }
+  ]
+}
