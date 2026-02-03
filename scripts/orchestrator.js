@@ -11,7 +11,7 @@ const STATIC_CONFIG = {
   repoPath: path.join(__dirname, '..'),
   configPath: path.join(__dirname, '..', '..', 'shared', 'agents-config.json'),
   dashboardDataPath: path.join(__dirname, '..', '..', 'dashboard', 'src', 'data.json'),
-  intervalMinutes: 5
+  intervalMinutes: 10
 };
 
 // Charger la configuration des agents
