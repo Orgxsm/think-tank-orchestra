@@ -12,11 +12,7 @@
 * [05 - Tiers-lieux et revitalisation des territoires ruraux](docs/agent-1-tierslieux/05-tiers-lieux-et-revitalisation-des-territ.md)
 * [06 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/06-numerique-et-inclusion-dans-les-tiers-lieux.md)
 * [07 - Modeles cooperatifs et gouvernance partagee](docs/agent-1-tierslieux/07-modeles-cooperatifs-et-gouvernance-partagee.md)
-* [08 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/08-numerique-et-inclusion-dans-les-tiers-lieux.md)
-* [09 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/09-numerique-et-inclusion-dans-les-tiers-lieux.md)
-* [10 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/10-numerique-et-inclusion-dans-les-tiers-lieux.md)
-* [11 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/11-numerique-et-inclusion-dans-les-tiers-lieux.md)
-* [12 - Modeles cooperatifs et gouvernance partagee](docs/agent-1-tierslieux/12-modeles-cooperatifs-et-gouvernance-partagee.md)
+* [08 - Culture et creation dans les tiers-lieux](docs/agent-1-tierslieux/08-culture-et-creation-dans-les-tiers-lieux.md)
 
 ## Agent Durabilite: Durabilite
 
@@ -27,14 +23,11 @@
 * [04 - Justice climatique et equite territoriale](docs/agent-2-durabilite/04-justice-climatique-et-equite-territorial.md)
 * [05 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/05-sobriete-choisie-et-transformation-des-modes.md)
 * [06 - Communs et gouvernance des ressources partagees](docs/agent-2-durabilite/06-communs-et-gouvernance-des-ressources-partage.md)
-* [07 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/07-sobriete-choisie-et-transformation-des-modes.md)
-* [08 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/08-sobriete-choisie-et-transformation-des-modes.md)
-* [09 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/09-sobriete-choisie-et-transformation-des-modes.md)
-* [10 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/10-sobriete-choisie-et-transformation-des-modes.md)
-* [11 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/11-sobriete-choisie-et-transformation-des-modes.md)
+* [07 - Mobilites durables et amenagement du territoire](docs/agent-2-durabilite/07-mobilites-durables-et-amenagement-du-territoi.md)
 
 ## Amelia: Innovation sociale
 
 * [Introduction](docs/agent-3-innovation-sociale/index.md)
 * [01 - Innovation sociale](docs/agent-3-innovation-sociale/01-innovation-sociale.md)
 * [02 - Design thinking et co-creation citoyenne](docs/agent-3-innovation-sociale/02-design-thinking-et-co-creation-citoyenne.md)
+* [03 - Laboratoires d'innovation publique](docs/agent-3-innovation-sociale/03-laboratoires-d-innovation-publique.md)
