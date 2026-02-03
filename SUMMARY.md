@@ -17,6 +17,7 @@
 * [10 - Accessibilite et design inclusif des tiers-lieux](docs/agent-1-tierslieux/10-accessibilite-et-design-inclusif-des-tiers-li.md)
 * [11 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/11-numerique-et-inclusion-dans-les-tiers-lieux.md)
 * [12 - Modeles cooperatifs et gouvernance partagee](docs/agent-1-tierslieux/12-modeles-cooperatifs-et-gouvernance-partagee.md)
+* [13 - Ancrage territorial et ecosystemes locaux](docs/agent-1-tierslieux/13-ancrage-territorial-et-ecosystemes-locaux.md)
 
 ## Agent Durabilite: Durabilite
 
@@ -32,6 +33,7 @@
 * [09 - Economie de la fonctionnalite et nouveaux modeles](docs/agent-2-durabilite/09-economie-de-la-fonctionnalite-et-nouveaux-mod.md)
 * [10 - Education populaire et transition ecologique](docs/agent-2-durabilite/10-education-populaire-et-transition-ecologique.md)
 * [11 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/11-sobriete-choisie-et-transformation-des-modes.md)
+* [12 - Communs et gouvernance des ressources partagees](docs/agent-2-durabilite/12-communs-et-gouvernance-des-ressources-partage.md)
 
 ## Amelia: Innovation sociale
 
@@ -43,3 +45,4 @@
 * [05 - Tech for good et numerique responsable](docs/agent-3-innovation-sociale/05-tech-for-good-et-numerique-responsable.md)
 * [06 - Economie collaborative et plateformes cooperatives](docs/agent-3-innovation-sociale/06-economie-collaborative-et-plateformes-coopera.md)
 * [07 - Innovation frugale et low-tech](docs/agent-3-innovation-sociale/07-innovation-frugale-et-low-tech.md)
+* [08 - Mesure d'impact social et evaluation](docs/agent-3-innovation-sociale/08-mesure-d-impact-social-et-evaluation.md)
