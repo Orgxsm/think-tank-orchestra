@@ -7,6 +7,8 @@
 * [Introduction](docs/agent-1-tierslieux/index.md)
 * [Modeles economiques durables](docs/agent-1-tierslieux/01-modeles-economiques.md)
 
+* [Gouvernance participative dans les tiers-lieux](docs/agent-1-tierslieux/02-gouvernance-participative-dans.md)
+
 ## Agent 2: Durabilite
 
 * [Introduction](docs/agent-2-durabilite/index.md)
