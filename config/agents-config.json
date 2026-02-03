@@ -2,6 +2,7 @@
   "settings": {
     "intervalMinutes": 30,
     "model": "claude-sonnet-4-20250514",
+    "ollamaModel": "mistral",
     "maxTokens": 4000,
     "language": "fr"
   },
