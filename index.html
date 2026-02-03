@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Think Tank Orchestra</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #10b981;
+    }
+    .sidebar-nav > ul > li > a {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Chargement...</div>
+  <script>
+    window.$docsify = {
+      name: 'Think Tank Orchestra',
+      repo: 'https://github.com/Orgxsm/think-tank-gitbook',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      auto2top: true,
+      search: {
+        placeholder: 'Rechercher...',
+        noData: 'Aucun resultat',
+        paths: 'auto'
+      }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+</html>
