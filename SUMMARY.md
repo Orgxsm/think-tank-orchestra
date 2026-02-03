@@ -11,6 +11,7 @@
 * [04 - Impact social et mesure de la valeur creee](docs/agent-1-tierslieux/04-impact-social-et-mesure-de-la-valeur.md)
 * [05 - Tiers-lieux et revitalisation des territoires ruraux](docs/agent-1-tierslieux/05-tiers-lieux-et-revitalisation-des-territ.md)
 * [06 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/06-numerique-et-inclusion-dans-les-tiers-lieux.md)
+* [07 - Modeles cooperatifs et gouvernance partagee](docs/agent-1-tierslieux/07-modeles-cooperatifs-et-gouvernance-partagee.md)
 
 ## Agent 2: Durabilite
 
@@ -20,3 +21,4 @@
 * [03 - Indicateurs de bien-etre et nouveaux recits du progres](docs/agent-2-durabilite/03-indicateurs-de-bien-etre.md)
 * [04 - Justice climatique et equite territoriale](docs/agent-2-durabilite/04-justice-climatique-et-equite-territorial.md)
 * [05 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/05-sobriete-choisie-et-transformation-des-modes.md)
+* [06 - Communs et gouvernance des ressources partagees](docs/agent-2-durabilite/06-communs-et-gouvernance-des-ressources-partage.md)
