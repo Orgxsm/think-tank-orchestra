@@ -13,6 +13,7 @@
 * [06 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/06-numerique-et-inclusion-dans-les-tiers-lieux.md)
 * [07 - Modeles cooperatifs et gouvernance partagee](docs/agent-1-tierslieux/07-modeles-cooperatifs-et-gouvernance-partagee.md)
 * [08 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/08-numerique-et-inclusion-dans-les-tiers-lieux.md)
+* [09 - Numerique et inclusion dans les tiers-lieux](docs/agent-1-tierslieux/09-numerique-et-inclusion-dans-les-tiers-lieux.md)
 
 ## Agent Durabilite: Durabilite
 
@@ -24,3 +25,4 @@
 * [05 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/05-sobriete-choisie-et-transformation-des-modes.md)
 * [06 - Communs et gouvernance des ressources partagees](docs/agent-2-durabilite/06-communs-et-gouvernance-des-ressources-partage.md)
 * [07 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/07-sobriete-choisie-et-transformation-des-modes.md)
+* [08 - Sobriete choisie et transformation des modes de vie](docs/agent-2-durabilite/08-sobriete-choisie-et-transformation-des-modes.md)
