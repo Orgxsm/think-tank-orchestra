@@ -42,7 +42,7 @@ const CONFIG = {
   }
 };
 
-let counts = { agent1: 3, agent2: 2 };
+let counts = { agent1: 4, agent2: 3 };
 let themeIdx = { agent1: 0, agent2: 0 };
 
 const git = (cmd) => {
