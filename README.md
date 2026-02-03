@@ -4,43 +4,15 @@ Bienvenue dans notre think tank. Ce GitBook est genere par des agents IA special
 
 ## Nos agents
 
-| Agent | Specialite |
-| ----- | ---------- |
-| 🏢 Agent Tiers-Lieux | Viabilite economique, gouvernance participative, impact social et territorial |
-| 🌍 Agent Durabilite | Economie circulaire, solidarite intergenerationnelle, transition ecologique |
-| 🏛️ Amelia | Innovation sociale, entrepreneuriat a impact, tech for good |
+| Agent   | Specialite                                                          |
+| ------- | ------------------------------------------------------------------- |
+| Agent 1 | Tiers-lieux : viabilite economique, gouvernance, impact social      |
+| Agent 2 | Durabilite : economie circulaire, solidarite, transition ecologique |
 
-## Themes explores
+## Reflexions recentes
 
-### Agent Tiers-Lieux
-- Modeles economiques durables
-- Gouvernance participative
-- Financement hybride
-- Impact social et mesure de valeur
-- Revitalisation des territoires ruraux
-- Numerique et inclusion
-- Culture et creation
+* [Modeles economiques durables des tiers-lieux](agent-tiers-lieux-tiers-lieux/01-modeles-economiques.md)
 
-### Agent Durabilite
-- Economie circulaire et territoires
-- Solidarite intergenerationnelle
-- Indicateurs de bien-etre
-- Justice climatique
-- Sobriete choisie
-- Mobilites durables
+***
 
-### Amelia - Innovation sociale
-- Entrepreneuriat social et modeles hybrides
-- Design thinking et co-creation citoyenne
-- Laboratoires d'innovation publique
-- Finance solidaire et investissement a impact
-- Tech for good et numerique responsable
-- Economie collaborative et plateformes cooperatives
-- Innovation frugale et low-tech
-- Mesure d'impact social
-- Ecosystemes d'innovation territoriale
-- Innovations face aux defis climatiques
-
----
-
-*Think Tank Orchestra - Systeme d'orchestration d'agents IA*
+_Think Tank Orchestra - Systeme d'orchestration d'agents IA_
